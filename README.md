@@ -13,6 +13,8 @@ https://github.com/Naima006/Vehicle-Rental-System/assets/95029959/e7b6a958-8732-
 
 # VRS-class-diagram
 
+https://drive.google.com/file/d/1Xk16VShbwEklAa5ODKRWOl4nPMrXTYkX/view?usp=sharing
+
 ![VRS-class-diagram drawio](https://github.com/Naima006/Vehicle-Rental-System/assets/95029959/749d215e-0f59-45f6-8de5-951626a1ae22)
 
 
